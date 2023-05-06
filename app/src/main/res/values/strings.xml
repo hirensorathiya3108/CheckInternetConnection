@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckInternetConnection</string>
+
+    <string name="retry">Retry</string>
+    <string name="wifi_off">Wifi Off</string>
+
+</resources>
